@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "TheBest1616",
+    "username": "SubToOwner",
     "password": "",
     "type": "online"
   },
   "server": {
     "ip": "mrmax.falix.gg",
-    "port":  "21793",
+    "port":  "48644",
     "version": "1.21.11",
     "try-creative": false
   },
